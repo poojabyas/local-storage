@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
+h2{
+    
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    height: 30px;
+    margin: 20px;
+    background-color: aquamarine;
+    cursor: pointer;
+    
+}
+.container {
+    display: flex;
+    margin: 20px;
+
+}
+form{
+    text-align: left;
+}
